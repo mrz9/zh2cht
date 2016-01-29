@@ -1,6 +1,13 @@
 # zh2cht
 实现和中文简体、繁体和火星文互转
 
+##安装
+```javascript
+
+npm install zh2cht
+
+```
+
 ##使用方法
 
 ```javascript
