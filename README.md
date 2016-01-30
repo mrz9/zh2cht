@@ -12,7 +12,7 @@ npm install zh2cht
 
 ```javascript
 
-var trans = require("../index.js");
+var trans = require("zh2cht");
 
 console.log("中文");
 console.log(trans.toZh('简体到繁体'));
